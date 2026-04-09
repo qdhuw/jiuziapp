@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_primary">#6750A4</color>
+    <color name="app_primary_variant">#7F67BE</color>
+    <color name="app_on_primary">#FFFFFF</color>
+    <color name="app_background">#FFFBFE</color>
+    <color name="app_surface">#FFFBFE</color>
+    <color name="app_on_surface">#1C1B1F</color>
+</resources>

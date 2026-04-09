@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">斑鸠鸠叫</string>
+    <string name="settings">设置</string>
+    <string name="click_hint">点击任意位置播放鸠叫</string>
+    <string name="total_clicks">总点击次数</string>
+    <string name="lossless_plays">无损播放次数</string>
+    <string name="lossy_plays">全损播放次数</string>
+    <string name="flash_effect">闪出效果</string>
+    <string name="show_stats">显示统计</string>
+    <string name="show_tips">显示提示</string>
+</resources>
